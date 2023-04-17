@@ -1,0 +1,49 @@
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(127, 163, 150);
+    display: table-cell;
+    vertical-align: middle;
+}
+    body{
+        float:center;
+        
+    }
+    div{
+        background-color: rgb(182, 228, 213);
+    }
+    img {
+  border-radius: 50%;
+  float:left; }
+  tfoot {
+    background-color: #3f87a6;
+    color: #fff;
+}
+
+tbody {
+    background-color: #e4f0f5;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-family:bold italic;
+    font-size: 1.0rem;
+}
+th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px 10px;
+}
+a{
+    text-align: center;
+}
+
